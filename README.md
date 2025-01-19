@@ -39,7 +39,7 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/fashion-recommendation.git
+   git clone https://github.com/AnushkaAmberkar/fashion-recommendation.git
    cd fashion-recommendation
    ```
 
