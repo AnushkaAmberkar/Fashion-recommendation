@@ -1,5 +1,3 @@
-# Fashion-recommendation
-
 # Fashion Recommendation
 
 This repository contains the code, analysis, and outputs for **Milestone 3 & 4** of the project. The work involves data analysis, modeling, and visualization tasks performed in a Jupyter Notebook. Below are the details of the repository structure, project objectives, and instructions for running the code.
