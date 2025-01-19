@@ -75,8 +75,3 @@ Contributions are welcome! Please follow these steps:
    ```
 5. Submit a pull request.
 
-## Acknowledgments
-
-- Tools and libraries used: Python, Jupyter Notebook, Pandas, NumPy, Matplotlib, and Scikit-learn.
-- Dataset sources: [Specify dataset source or link].
-
